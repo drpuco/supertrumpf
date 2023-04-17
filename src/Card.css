@@ -25,3 +25,7 @@ img{
     border: 1px solid black;
     margin-bottom: 10px;
 }
+.back{
+    height: 388px;
+    background-color: green;
+}

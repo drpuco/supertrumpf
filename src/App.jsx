@@ -1,5 +1,6 @@
 import './App.css';
 import Card from './Card';
+import Animal from './Animal';
 
 function App() {
   return (
@@ -7,8 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Supertrumpf</h1>
         <Card />
-        <Card />
-        <Card />
+
         
       </header>
     </div>
