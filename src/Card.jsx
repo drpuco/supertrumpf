@@ -1,8 +1,7 @@
 import * as React from 'react';
 import './Card.css';
 import Animal from './Animal';
-import PropTypes from 'prop-types';
-const uncovered = false;
+const uncovered = true;
 
 export default function Card({animal, uncovered}){
     const elephant = new Animal('Elefant', 'placeholder.png', 3.3, 6000, 70, 1, 40);
